@@ -1,2 +1,2 @@
 # FOX
-![logo](logo.webp "Logo")
+![logo](foxlogo.webp "Logo")
